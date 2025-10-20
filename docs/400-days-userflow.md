@@ -617,7 +617,7 @@ graph TB
 
 ```mermaid
 graph TB
-    Commands[Доступные команды] --> Start[/start<br/>Запуск/перезапуск бота]
+    Commands[Доступные команды] --> Start[/start<br/>Запуск или перезапуск бота]
     Commands --> Help[/help<br/>Справка и FAQ]
     Commands --> Progress[/progress<br/>Текущий прогресс]
     Commands --> History[/history<br/>История отчетов]
