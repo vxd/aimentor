@@ -621,7 +621,7 @@ graph TB
     Commands --> Help['/help'<br/>Справка и FAQ]
     Commands --> Progress['/progress'<br/>Текущий прогресс]
     Commands --> History['/history'<br/>История отчетов]
-    Commands --> Settings[/'settings'<br/>Настройки]
+    Commands --> Settings['/settings'<br/>Настройки]
     Commands --> Stats['/stats'<br/>Подробная статистика]
     
     Start --> Onboarding[Процесс онбординга]
